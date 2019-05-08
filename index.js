@@ -28,7 +28,7 @@ module.exports = function AutoStance(dispatch) {
         "id": 110100
     };
 	
-	dispatch.hook("S_LOGIN", 12, (event) => {
+	dispatch.hook("S_LOGIN", 13, (event) => {
 		gameId = event.gameId;
 		job = (event.templateId - 10101) % 100;
 		moduleEnabled = (job == 11 && event.level == 65) ? true : false;
