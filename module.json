@@ -1,9 +1,9 @@
 {
     "disableAutoUpdate": false,
-    "name": "AutoStance",
-    "author": "moosten / teralove / Yuyuko-sama / TerableCoder",
-    "homepage": "https://github.com/TerableCoder/Autostance",
+    "name": "AutoStance 2.0",
+    "author": "Nekonekoo | TerableCoder",
+    "homepage": "https://github.com/PatrickSantoZZ/Autostance-2.0",
     "description": "Automatically uses stance skills if they aren't activated.",
-    "version": "2",
-    "servers": ["https://raw.githubusercontent.com/TerableCoder/AutoStance/master/"]
+    "version": "2.5",
+    "servers": ["https://raw.githubusercontent.com/PatrickSantoZZ/Autostance-2.0/master/"]
 }
